@@ -1,0 +1,5 @@
+strategies: categorized
+debug: true
+strategiesConfiguration:
+  categorized:
+    categories: FirstCategory
